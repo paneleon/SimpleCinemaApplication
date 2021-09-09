@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123EleonoraPanussyantsAssignment3", "COMP123EleonoraPanussyantsAssignment3\COMP123EleonoraPanussyantsAssignment3.csproj", "{7753F3BE-0D19-468A-9B23-B85C2EEC7D9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApplication", "COMP123EleonoraPanussyantsAssignment3\MovieApplication.csproj", "{7753F3BE-0D19-468A-9B23-B85C2EEC7D9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
